@@ -1,16 +1,18 @@
-## Hi there 👋
+# Raíces y Redes de Colombia
 
-<!--
-**raices-y-redes-Colombia/Raices-y-Redes-Colombia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Landing page bilingüe (ES/EN) para Raíces y Redes de Colombia.  
+Conecta visitantes a marcas, cursos, podcasts y ThriveAcademy sin que noten la transición entre Squarespace y GitHub.
 
-Here are some ideas to get you started:
+## Características
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Idioma principal: Español, con botón para cambiar a inglés (EN)
+- Navegación suave (smooth scroll) entre secciones
+- Secciones: Productos, Arts & Crafts, Fundadores, Mascotas, Cursos, Podcast, Galería, ThriveAcademy
+- Formulario de suscripción vía mailto
+- Responsive: se adapta a móvil, tablet y desktop
+
+## Estructura
+
+- `index.html` → Código HTML + JS (pegado en un Code Block de Squarespace)
+- `custom.css` → CSS personalizado (pegado en **Design → Custom CSS** en Squarespace)
+- `README.md` → Información del proyecto
